@@ -1,1 +1,1 @@
-# signal-processing
+# Dining Philosophers
